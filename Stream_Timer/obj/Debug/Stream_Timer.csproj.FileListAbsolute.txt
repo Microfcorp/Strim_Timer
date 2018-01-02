@@ -1,0 +1,9 @@
+c:\users\лехап\documents\visual studio 2015\Projects\Stream_Timer\Stream_Timer\bin\Debug\Stream_Timer.exe.config
+c:\users\лехап\documents\visual studio 2015\Projects\Stream_Timer\Stream_Timer\bin\Debug\Stream_Timer.exe
+c:\users\лехап\documents\visual studio 2015\Projects\Stream_Timer\Stream_Timer\bin\Debug\Stream_Timer.pdb
+c:\users\лехап\documents\visual studio 2015\Projects\Stream_Timer\Stream_Timer\obj\Debug\Stream_Timer.csprojResolveAssemblyReference.cache
+c:\users\лехап\documents\visual studio 2015\Projects\Stream_Timer\Stream_Timer\obj\Debug\Stream_Timer.Form1.resources
+c:\users\лехап\documents\visual studio 2015\Projects\Stream_Timer\Stream_Timer\obj\Debug\Stream_Timer.Properties.Resources.resources
+c:\users\лехап\documents\visual studio 2015\Projects\Stream_Timer\Stream_Timer\obj\Debug\Stream_Timer.csproj.GenerateResource.Cache
+c:\users\лехап\documents\visual studio 2015\Projects\Stream_Timer\Stream_Timer\obj\Debug\Stream_Timer.exe
+c:\users\лехап\documents\visual studio 2015\Projects\Stream_Timer\Stream_Timer\obj\Debug\Stream_Timer.pdb
